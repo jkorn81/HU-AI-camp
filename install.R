@@ -3,3 +3,7 @@ library(keras)
 install_keras
 install.packages("tensorflow")
 library(tensorflow)
+install.packages("reticulate")
+library(reticulate)
+install.packages("tfruns")
+library(tfruns)
